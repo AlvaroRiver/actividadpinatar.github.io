@@ -107,7 +107,7 @@
     padding: 15px;
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 100vw;
     background-color: rgb(134, 207, 255);
 }
 
@@ -116,7 +116,7 @@
 }
 
 .footer img{
-    margin: 0px 100px;
+    margin: 0 10vw;
     height: 60px;
     width: auto;
 }
